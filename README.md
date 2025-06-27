@@ -2,7 +2,7 @@ Traying to make AIRCRACK-NG wifi tool into GUI with PYTHON.
 
 and aircrack-ng must be installed.
 heres the offical LINK
-https://github.com/shkoios/aircrack-GUI
+https://github.com/aircrack-ng/aircrack-ng
 
 it's my first project sorry for BUGS.
 hope it helps.
